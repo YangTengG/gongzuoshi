@@ -1,0 +1,1 @@
+<a href="[field:typelink/]" target="_blank" title="合作"><img src="/skin/images/057.png" alt="合作" />合作</a>

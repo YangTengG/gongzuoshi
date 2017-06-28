@@ -1,0 +1,1 @@
+<a href="[field:typelink/]"><img src="/skin/images/060.png" alt="建站帮助中心" />帮助</a>
